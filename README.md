@@ -24,7 +24,7 @@
 
 - 👩‍🎓 I'm a college student  
 - 📚 Currently learning Python, Frontend Development  
-- ✍️ I occasionally write on [Medium](https://medium.com/@richamishra2005d)
+- ✍️ I occasionally write on Medium
 
 ---
 

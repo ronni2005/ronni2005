@@ -29,7 +29,7 @@
 
 ### 🛠️ Languages & Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
@@ -48,12 +48,7 @@
 
 ### 🌸 keep up the fun..
 
-<div align="left">
-  <img src="https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966" width="35" height="35" />
-  <img src="https://camo.githubusercontent.com/410b8a708a4b4cd942c51159d45d204441064f9b5544219e10fdbb1e680d978a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f7370696e6e696e67706172726f742e676966" width="35" height="35" />
-  <img src="https://camo.githubusercontent.com/1eb5e2a3bdec0ac20d362071048e861dbc2d54d9c4c928f80811f22fd2aecd9b/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746461726b2e676966" width="35" height="35" />
-</div>
-
+🦜 🦜 🦜
 ---
 
 ### 🐍 Contribution Snake

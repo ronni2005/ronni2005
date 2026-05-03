@@ -1,21 +1,20 @@
-<p align="left">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" />
 </p>
 
-<h1 align="left">Hi, I'm Richa 🌟</h1>
-
-<h3 align="left">👩‍💻 On a journey to become 1% better everyday</h3>
-
+<h1 align="center">Hi, I'm Richa 🌟</h1>
+<h3 align="center">👩‍💻 On a journey to become 1% better everyday</h3>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/richa-mishra2005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:richamishra2005d@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
 
+  <a href="mailto:richamishra2005d@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 ---
